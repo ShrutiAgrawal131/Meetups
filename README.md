@@ -8,4 +8,4 @@ Challenges faced: Here the main challenge was to navigate between components. It
 # Reference: https://github.com/academind/
 
 # Techstacks:
-![](https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/97b31/React.jpg)
+![](https://img.shields.io/badge/React-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
