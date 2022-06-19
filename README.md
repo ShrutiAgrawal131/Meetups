@@ -5,4 +5,4 @@ This website was made to store all the meetings in one place. It is kind of todo
 Techstacks used: Front-end: React, Back-end: Firebase
 Challenges faced: Here the main challenge was to navigate between components. It was challenging as well as interesting at the same time.
 
-# Reference: https://github.com/academind/
+Reference: https://github.com/academind/
